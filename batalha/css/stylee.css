@@ -1,0 +1,62 @@
+body {
+  max-width: 99%;
+  background-image: url('../image/batalha.png') !important;
+  background-color: #990000;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white !important;
+}
+
+
+.imagem {
+  margin-top: -90px !important;
+  width: 300px;
+}
+
+.x {
+  font-size: 20px !important;
+}
+
+.texto {
+  font-size: 23px !important;
+}
+
+.label {
+  font-size: 17px !important;
+}
+
+.cartasPlayer1 { 
+  width: 100%;
+  margin-top: 17px !important;
+  text-align: center;
+}
+
+.cartasPlayer2 {
+  width: 100%;
+  text-align: center;
+}
+.button {
+  margin-bottom: 20px;
+  cursor: pointer;
+  background-color: #990000;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-top: 15px;
+}
+
+.h5derrota {
+  margin-top: -10px;
+}
+
+/* .button.mt-1 {   tentativa de colocar o botao no centro
+  justify-content: center;
+} */
+
+.branco {
+  color: white;
+}
